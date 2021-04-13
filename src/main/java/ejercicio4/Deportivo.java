@@ -20,7 +20,7 @@ public class Deportivo extends Vehiculo {
     
     public Deportivo() {
         super();
-        this.cilindrada = 500;
+        this.cilindrada = devuelveAleatorio(20, 1000);
     }
 
     public int getCilindrada() {

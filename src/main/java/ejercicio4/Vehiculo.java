@@ -30,32 +30,16 @@ public class Vehiculo {
         this.tarifa = tarifa;
         this.disponible = disponible;
     }
-    
+
     public Vehiculo() {
-        String[] marcas = {"Mercedes", "Toyota", "Volkswagen", "BMW", "Honda","Hyundai", "Audi"};
-        String marca = marcas[devuelveAleatorio(0, marcas.length-1)];
-        String[] modelos = {"Megane", "Astra", "Clio", "Leon", "Corsa","Serie 3"};
-        String modelo = modelos[devuelveAleatorio(0, modelos.length-1)];
-        String[] colores = {"Rojo", "Gris", "Negro", "Blanco", "Azul","Amarillo"};
-        String color = colores[devuelveAleatorio(0, colores.length-1)];
-        double tarifa = (double)devuelveAleatorio(0, 1000);
-        boolean disponible;
-        if (devuelveAleatorio(0, 1) == 1) {
-            disponible = true;
-        } else {
-            disponible = false;
-        }
-        
         this.bastidor = devuelveBastidor();
         this.matricula = devuelveMatricula();
-        this.marca = marca;
-        this.modelo = modelo;
-        this.color = color;
-        this.tarifa = tarifa;
-        this.disponible = disponible;
+        this.marca = devuelveMarca();
+        this.modelo = devuelveModelo();
+        this.color = devuelveColor();
+        this.tarifa = devuelveTarifa();
+        this.disponible = devuelveTrueoFalse();
     }
-    
-    
 
     public Long getBastidor() {
         return bastidor;
@@ -114,7 +98,7 @@ public class Vehiculo {
     }
 
     //metodo para generar valores aleatorios entre dos numeros
-    private int devuelveAleatorio(int n, int m) {
+    public int devuelveAleatorio(int n, int m) {
         Random random = new Random();
         return random.nextInt(m - n + 1) + n;
     }
@@ -123,15 +107,36 @@ public class Vehiculo {
     public String toString() {
         return bastidor + ":" + matricula + ":" + marca + ":" + modelo + ":" + color + ":" + tarifa + ":" + disponible + ":";
     }
-    
+
     private Long devuelveBastidor() {
         return Long.valueOf(String.valueOf(devuelveAleatorio(1, 50000)));
     }
-    
+
     private String devuelveMatricula() {
         return String.valueOf(devuelveAleatorio(1, 50000));
     }
-    
-    
+
+    private String devuelveMarca() {
+        String[] marcas = {"Mercedes", "Toyota", "Volkswagen", "BMW", "Honda", "Hyundai", "Audi"};
+        return marcas[devuelveAleatorio(0, marcas.length - 1)];
+    }
+
+    private String devuelveModelo() {
+        String[] modelos = {"Megane", "Astra", "Clio", "Leon", "Corsa", "Serie 3"};
+        return modelos[devuelveAleatorio(0, modelos.length - 1)];
+    }
+
+    private String devuelveColor() {
+        String[] colores = {"Rojo", "Gris", "Negro", "Blanco", "Azul", "Amarillo"};
+        return colores[devuelveAleatorio(0, colores.length - 1)];
+    }
+
+    private double devuelveTarifa() {
+        return (double) devuelveAleatorio(0, 1000);
+    }
+
+    public boolean devuelveTrueoFalse() {
+        return (devuelveAleatorio(0, 1) == 1);
+    }
 
 }

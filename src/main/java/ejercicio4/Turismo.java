@@ -22,8 +22,8 @@ public class Turismo extends Vehiculo {
     
     public Turismo() {
         super();
-        this.marchaAutomatica = true;
-        this.puertas = 4;
+        this.marchaAutomatica = devuelveTrueoFalse();
+        this.puertas = devuelveAleatorio(1, 5);
     }
 
     public int getPuertas() {

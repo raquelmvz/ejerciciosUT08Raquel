@@ -20,11 +20,11 @@ public class Furgoneta extends Vehiculo {
         this.carga = carga;
         this.volumen = volumen;
     }
-    
+
     public Furgoneta() {
         super();
-        this.carga = 500;
-        this.volumen = 600;
+        this.carga = devuelveAleatorio(50, 5000);
+        this.volumen = devuelveAleatorio(50, 3000);
     }
 
     public int getCarga() {
@@ -47,7 +47,5 @@ public class Furgoneta extends Vehiculo {
     public String toString() {
         return super.toString() + carga + ":" + volumen;
     }
-    
-    
 
 }
