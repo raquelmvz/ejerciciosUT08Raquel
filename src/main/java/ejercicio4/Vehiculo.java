@@ -5,6 +5,7 @@
  */
 package ejercicio4;
 
+import java.util.ArrayList;
 import java.util.Random;
 
 /**
@@ -20,6 +21,7 @@ public class Vehiculo {
     private String color;
     private double tarifa;
     private boolean disponible;
+    private ArrayList<String> matriculasAnadidas = new ArrayList<>();
 
     public Vehiculo(Long bastidor, String matricula, String marca, String modelo, String color, double tarifa, boolean disponible) {
         this.bastidor = bastidor;
@@ -112,10 +114,9 @@ public class Vehiculo {
         return Long.valueOf(String.valueOf(devuelveAleatorio(1, 50000)));
     }
 
-    private String devuelveMatricula() {
-        return String.valueOf(devuelveAleatorio(1, 50000));
-    }
-
+//    private String devuelveMatricula() {
+//        return String.valueOf(devuelveAleatorio(1, 50000));
+//    }
     private String devuelveMarca() {
         String[] marcas = {"Mercedes", "Toyota", "Volkswagen", "BMW", "Honda", "Hyundai", "Audi"};
         return marcas[devuelveAleatorio(0, marcas.length - 1)];
@@ -137,6 +138,36 @@ public class Vehiculo {
 
     public boolean devuelveTrueoFalse() {
         return (devuelveAleatorio(0, 1) == 1);
+    }
+
+    public String generaMatricula() {
+
+        String numAFormatear = Integer.toString(devuelveAleatorio(0, 99999));
+
+        String numFormateado = "00000".substring(numAFormatear.length()) + numAFormatear;
+
+        String caracteres = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+
+        Random random = new Random();
+
+        StringBuilder sb = new StringBuilder(3);
+        for (int i = 0; i < 3; i++) {
+            sb.append(caracteres.charAt(random.nextInt(caracteres.length())));
+        }
+
+        return numFormateado + sb;
+
+    }
+
+    public String devuelveMatricula() {
+
+        String matricula = generaMatricula();
+
+        while (!matriculasAnadidas.contains(matricula)) {
+            matriculasAnadidas.add(matricula);
+        }
+
+        return matricula;
     }
 
 }
