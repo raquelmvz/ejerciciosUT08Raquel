@@ -1,0 +1,90 @@
+49374:12621:Volkswagen:Clio:Amarillo:346.0:false:4:true
+7357:21699:Volkswagen:Serie 3:Amarillo:113.0:true:500:600
+3068:22387:Toyota:Corsa:Rojo:700.0:true:500
+44357:18282:Audi:Astra:Azul:665.0:false:4:true
+7249:25944:Volkswagen:Serie 3:Rojo:417.0:false:500:600
+24553:19482:Mercedes:Corsa:Azul:504.0:false:500
+31408:33799:Mercedes:Megane:Blanco:752.0:false:4:true
+18852:22430:BMW:Astra:Blanco:619.0:true:500:600
+44448:39137:Volkswagen:Serie 3:Amarillo:290.0:false:500
+32329:3831:Toyota:Clio:Blanco:22.0:false:4:true
+28003:14744:Toyota:Megane:Gris:878.0:true:500:600
+20667:38583:BMW:Corsa:Negro:68.0:true:500
+36951:28748:Mercedes:Megane:Rojo:881.0:false:4:true
+5768:8507:Toyota:Megane:Blanco:710.0:false:500:600
+34177:14017:BMW:Leon:Rojo:428.0:true:500
+7988:23026:Honda:Clio:Gris:840.0:true:4:true
+27078:42622:Audi:Serie 3:Blanco:857.0:true:500:600
+33541:46175:Honda:Serie 3:Blanco:919.0:true:500
+31637:18173:Mercedes:Clio:Blanco:962.0:true:4:true
+17305:20613:Honda:Clio:Amarillo:406.0:false:500:600
+28571:23737:Mercedes:Clio:Rojo:233.0:true:500
+45135:29163:Honda:Corsa:Rojo:889.0:true:4:true
+30773:10882:Volkswagen:Serie 3:Amarillo:225.0:true:500:600
+6373:10727:Audi:Corsa:Blanco:493.0:true:500
+9717:8310:Honda:Astra:Rojo:306.0:true:4:true
+44115:21633:Mercedes:Serie 3:Amarillo:489.0:false:500:600
+44270:16008:Honda:Leon:Blanco:854.0:false:500
+34946:25921:Volkswagen:Clio:Negro:340.0:false:4:true
+49989:27969:Hyundai:Leon:Azul:33.0:false:500:600
+24277:32945:Toyota:Leon:Negro:592.0:false:500
+2961:31282:Toyota:Clio:Azul:989.0:true:4:true
+20003:16582:Hyundai:Corsa:Negro:39.0:false:500:600
+7547:864:Hyundai:Corsa:Blanco:629.0:true:500
+49689:30678:Hyundai:Astra:Rojo:909.0:false:4:true
+2367:33307:Hyundai:Clio:Negro:956.0:false:500:600
+17437:40959:BMW:Leon:Rojo:659.0:false:500
+41221:33815:Hyundai:Clio:Gris:903.0:true:4:true
+47629:45441:Mercedes:Clio:Rojo:770.0:true:500:600
+38561:30755:Volkswagen:Leon:Blanco:245.0:false:500
+20510:39651:Volkswagen:Megane:Azul:999.0:false:4:true
+32155:27099:Mercedes:Serie 3:Negro:424.0:true:500:600
+5232:11995:Mercedes:Corsa:Amarillo:334.0:false:500
+5743:30298:BMW:Leon:Rojo:881.0:true:4:true
+24005:39127:Mercedes:Clio:Azul:49.0:false:500:600
+41451:45496:Hyundai:Megane:Negro:693.0:true:500
+12440:45133:BMW:Megane:Blanco:748.0:false:4:true
+21508:44287:Mercedes:Clio:Rojo:148.0:false:500:600
+15407:44958:Toyota:Astra:Negro:733.0:false:500
+41258:7091:Honda:Astra:Rojo:745.0:true:4:true
+22081:2323:Honda:Megane:Azul:195.0:true:500:600
+43318:24212:Hyundai:Megane:Azul:456.0:false:500
+48441:10203:Hyundai:Corsa:Azul:62.0:false:4:true
+3402:14943:Audi:Leon:Gris:82.0:false:500:600
+13080:25985:Honda:Corsa:Rojo:558.0:false:500
+46158:35528:Honda:Serie 3:Blanco:881.0:false:4:true
+18700:26858:Toyota:Astra:Rojo:127.0:false:500:600
+29976:38294:Audi:Corsa:Negro:313.0:false:500
+37887:36667:Mercedes:Astra:Gris:729.0:false:4:true
+45555:37547:Hyundai:Serie 3:Amarillo:878.0:true:500:600
+44931:36886:Audi:Astra:Gris:892.0:true:500
+1708:21546:Volkswagen:Corsa:Azul:129.0:false:4:true
+21573:9317:Honda:Astra:Negro:937.0:true:500:600
+22602:13249:Toyota:Corsa:Negro:996.0:false:500
+23115:27510:Mercedes:Corsa:Amarillo:823.0:false:4:true
+13050:44542:Hyundai:Megane:Amarillo:972.0:true:500:600
+212:26917:BMW:Megane:Rojo:702.0:true:500
+2279:247:Volkswagen:Leon:Rojo:699.0:false:4:true
+26519:36209:Toyota:Corsa:Amarillo:878.0:true:500:600
+39682:3074:Hyundai:Megane:Rojo:215.0:true:500
+2128:29311:Mercedes:Serie 3:Azul:773.0:true:4:true
+13168:30572:Hyundai:Megane:Rojo:572.0:true:500:600
+7063:8875:Audi:Leon:Gris:541.0:true:500
+2960:34299:Volkswagen:Megane:Amarillo:21.0:false:4:true
+39945:21802:Honda:Astra:Rojo:369.0:true:500:600
+26777:8744:Volkswagen:Astra:Blanco:176.0:true:500
+12032:1764:BMW:Astra:Amarillo:169.0:true:4:true
+9918:39973:Audi:Leon:Azul:856.0:true:500:600
+47928:9213:Toyota:Serie 3:Amarillo:179.0:true:500
+44627:26317:Volkswagen:Megane:Gris:27.0:false:4:true
+25347:1683:Mercedes:Clio:Azul:954.0:false:500:600
+25347:30606:Hyundai:Astra:Negro:672.0:true:500
+6598:1181:Audi:Megane:Blanco:344.0:true:4:true
+22866:42531:Honda:Serie 3:Blanco:823.0:false:500:600
+44980:17467:Audi:Astra:Negro:749.0:false:500
+47880:3280:Toyota:Corsa:Gris:972.0:false:4:true
+14061:37872:Mercedes:Astra:Negro:81.0:true:500:600
+17582:816:Toyota:Leon:Amarillo:161.0:false:500
+10586:41494:Volkswagen:Serie 3:Azul:228.0:false:4:true
+26489:25029:Audi:Clio:Amarillo:181.0:false:500:600
+49557:47504:Volkswagen:Megane:Amarillo:372.0:false:500
