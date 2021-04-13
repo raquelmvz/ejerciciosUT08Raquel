@@ -10,7 +10,7 @@ package ejercicio4;
  * @author raque
  */
 public class Turismo extends Vehiculo {
-    
+
     private int puertas;
     private boolean marchaAutomatica;
 
@@ -19,7 +19,7 @@ public class Turismo extends Vehiculo {
         this.puertas = puertas;
         this.marchaAutomatica = marchaAutomatica;
     }
-    
+
     public Turismo() {
         super();
         this.marchaAutomatica = devuelveTrueoFalse();
@@ -46,9 +46,5 @@ public class Turismo extends Vehiculo {
     public String toString() {
         return super.toString() + puertas + ":" + marchaAutomatica;
     }
-    
-    
-    
-    
-    
+
 }

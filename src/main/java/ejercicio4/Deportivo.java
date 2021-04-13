@@ -10,14 +10,14 @@ package ejercicio4;
  * @author raque
  */
 public class Deportivo extends Vehiculo {
-    
+
     private int cilindrada; // Atributo específico para Deportivo
 
     public Deportivo(int cilindrada, Long bastidor, String matricula, String marca, String modelo, String color, double tarifa, boolean disponible) {
         super(bastidor, matricula, marca, modelo, color, tarifa, disponible);
         this.cilindrada = cilindrada;
     }
-    
+
     public Deportivo() {
         super();
         this.cilindrada = devuelveAleatorio(20, 1000);
@@ -35,10 +35,5 @@ public class Deportivo extends Vehiculo {
     public String toString() {
         return super.toString() + cilindrada;
     }
-    
-    
 
-    
-    
-    
 }
