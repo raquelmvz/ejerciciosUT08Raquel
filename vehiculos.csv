@@ -1,91 +1,91 @@
-Tipo:Vehiculo:Matricula:Marca:Modelo:Color:Tarifa:Disponible
-0:7257:44359SEL:Mercedes:Clio:Gris:880.0:true:4:true
-2:6022:33789EVP:Mercedes:Serie 3:Negro:683.0:true:2995:1749
-1:4180:61312LKC:Honda:Leon:Gris:483.0:true:948
-0:18490:16101TDO:Audi:Clio:Rojo:957.0:false:1:true
-2:27470:86767LXB:Volkswagen:Astra:Amarillo:219.0:false:4753:1724
-1:21314:30920OHQ:BMW:Serie 3:Blanco:193.0:true:218
-0:7603:72192XNS:Hyundai:Leon:Rojo:808.0:false:2:true
-2:3860:12160LNT:Honda:Leon:Rojo:809.0:true:2181:619
-1:10606:03510SLS:Honda:Corsa:Amarillo:190.0:true:687
-0:33634:51779UNQ:Mercedes:Megane:Negro:662.0:true:5:false
-2:45557:95926FZQ:Toyota:Serie 3:Azul:444.0:true:250:1299
-1:38377:50407LXX:Hyundai:Corsa:Blanco:718.0:true:504
-0:28969:96779OXR:Audi:Astra:Gris:167.0:false:3:true
-2:125:43690OLL:Volkswagen:Megane:Negro:784.0:true:4736:1918
-1:127:38144YEY:Toyota:Leon:Rojo:935.0:true:410
-0:40913:55215JPX:Honda:Megane:Amarillo:423.0:false:2:false
-2:29455:32065LKB:Hyundai:Clio:Amarillo:579.0:false:2119:1633
-1:18956:72666OOD:Mercedes:Astra:Blanco:922.0:true:655
-0:12929:98662PKD:Mercedes:Megane:Blanco:782.0:true:3:true
-2:16572:04445GQY:Hyundai:Astra:Rojo:167.0:true:4401:1258
-1:8971:33547GLS:Mercedes:Serie 3:Rojo:549.0:false:191
-0:23252:63128HUA:Audi:Serie 3:Blanco:753.0:false:1:false
-2:8608:77548HAQ:Hyundai:Megane:Rojo:682.0:true:3689:1621
-1:34395:03462RHN:Honda:Leon:Negro:972.0:true:574
-0:14439:45904UJJ:Toyota:Astra:Gris:475.0:true:1:false
-2:1015:46446YFV:Toyota:Serie 3:Azul:856.0:true:3236:1410
-1:16756:18063NVB:Audi:Serie 3:Azul:414.0:true:536
-0:38124:79778GYS:Hyundai:Clio:Negro:723.0:false:5:true
-2:45696:36789PBY:Mercedes:Megane:Negro:317.0:false:4613:880
-1:29167:07816LRD:Mercedes:Astra:Rojo:749.0:false:235
-0:30260:14466OBD:Hyundai:Serie 3:Azul:383.0:false:2:false
-2:39023:90210INK:BMW:Corsa:Rojo:267.0:false:2036:2772
-1:33178:05322ZSY:BMW:Serie 3:Gris:926.0:true:594
-0:37705:50855YKD:BMW:Corsa:Amarillo:424.0:false:3:false
-2:17324:17828NXW:Honda:Corsa:Rojo:364.0:true:1773:184
-1:12064:05306OBC:Toyota:Corsa:Rojo:601.0:false:159
-0:45075:14923EBI:BMW:Astra:Amarillo:200.0:false:4:false
-2:29879:52273ZDJ:Hyundai:Astra:Blanco:319.0:true:2788:1455
-1:8728:41665GJN:Toyota:Corsa:Amarillo:352.0:true:268
-0:48648:30091XGC:Honda:Leon:Negro:638.0:true:4:true
-2:39080:83260GVS:Mercedes:Leon:Negro:375.0:true:2965:1598
-1:11023:08931KHF:Honda:Astra:Rojo:127.0:false:366
-0:16619:58043RUN:Audi:Leon:Amarillo:188.0:false:5:false
-2:33465:87302ZVV:Toyota:Megane:Azul:117.0:false:2812:94
-1:22995:41077PUU:Toyota:Clio:Azul:726.0:false:942
-0:15550:68373QWV:Volkswagen:Clio:Negro:670.0:false:3:false
-2:26459:18356DLZ:Toyota:Serie 3:Azul:79.0:true:1769:2994
-1:43465:42520AIW:Hyundai:Astra:Negro:352.0:true:618
-0:46735:67442ITY:Audi:Astra:Amarillo:856.0:true:3:false
-2:39916:97049YCR:Honda:Corsa:Blanco:418.0:true:1363:130
-1:12427:26781YZE:Mercedes:Serie 3:Amarillo:420.0:true:43
-0:24340:57586ZRI:BMW:Clio:Azul:470.0:false:2:true
-2:47888:04776IUZ:Mercedes:Serie 3:Azul:200.0:true:786:2109
-1:34989:25294SRI:Volkswagen:Astra:Negro:921.0:false:40
-0:35970:96912IOE:Toyota:Corsa:Azul:209.0:false:5:false
-2:18524:53608TEV:Audi:Corsa:Amarillo:992.0:true:4002:1080
-1:2964:62231MXP:Honda:Leon:Azul:548.0:true:185
-0:3052:94425LCX:Audi:Serie 3:Blanco:181.0:true:5:true
-2:6663:63676IBM:Toyota:Serie 3:Azul:394.0:false:830:2242
-1:27528:48682KPD:Volkswagen:Clio:Gris:619.0:true:685
-0:10251:04691JHE:BMW:Corsa:Negro:555.0:true:5:true
-2:18687:71894YZM:Mercedes:Serie 3:Rojo:277.0:false:3747:2290
-1:16874:76991HHB:Hyundai:Serie 3:Blanco:595.0:false:668
-0:37489:60433TFR:BMW:Serie 3:Rojo:362.0:false:5:false
-2:48287:62077SYO:BMW:Leon:Blanco:291.0:true:3886:1648
-1:8714:21011KKZ:Volkswagen:Astra:Negro:26.0:false:577
-0:9413:11721YVR:Hyundai:Corsa:Gris:220.0:false:4:true
-2:23443:33845NJC:Hyundai:Clio:Negro:494.0:true:1873:2357
-1:45435:53318GND:Audi:Astra:Gris:229.0:true:289
-0:46396:71454VNP:Toyota:Megane:Rojo:259.0:true:3:false
-2:13188:69822WFO:Hyundai:Megane:Negro:371.0:true:4536:2875
-1:8185:47038ONG:Hyundai:Clio:Negro:205.0:false:214
-0:9894:83805LIO:Volkswagen:Leon:Negro:834.0:true:1:false
-2:31369:13124BGL:Mercedes:Astra:Gris:76.0:false:665:750
-1:9959:72956CEB:Hyundai:Serie 3:Rojo:686.0:false:975
-0:12275:45839XDC:Volkswagen:Serie 3:Blanco:765.0:true:2:false
-2:11015:21215XUP:Honda:Megane:Amarillo:101.0:false:138:1191
-1:16172:74735FWD:Mercedes:Clio:Rojo:872.0:true:570
-0:8594:24611LGA:Toyota:Clio:Azul:852.0:true:2:false
-2:9854:22416AKO:Mercedes:Astra:Rojo:723.0:false:4631:2297
-1:4666:58138SCR:Honda:Megane:Gris:933.0:false:697
-0:48734:15434EWQ:Volkswagen:Leon:Negro:852.0:false:1:true
-2:3562:71220PLC:Volkswagen:Astra:Gris:640.0:true:258:382
-1:7031:81680EGG:Mercedes:Leon:Blanco:854.0:false:586
-0:39583:25474IYK:BMW:Astra:Blanco:999.0:true:1:true
-2:44973:23608TBV:BMW:Corsa:Blanco:793.0:true:2733:2512
-1:30224:53717LAP:Toyota:Astra:Gris:230.0:true:641
-0:11073:11349LWK:Toyota:Serie 3:Blanco:545.0:true:5:true
-2:11015:43936NUC:Toyota:Leon:Blanco:539.0:true:2587:638
-1:37708:96451OZV:Mercedes:Clio:Amarillo:46.0:true:863
+TipoVehiculo:Bastidor:Matricula:Marca:Modelo:Color:Tarifa:Disponible
+0:38313:24005HTP:Honda:Corsa:Blanco:633.0:false:2:true
+2:7997:85753PZI:Honda:Megane:Negro:40.0:true:3368:574
+1:44002:08256LRU:Volkswagen:Corsa:Amarillo:277.0:true:646
+0:11615:59928TRU:Toyota:Astra:Negro:50.0:true:5:false
+2:32197:18186GEU:Toyota:Serie 3:Amarillo:101.0:true:1951:1053
+1:49386:16673YYR:Mercedes:Megane:Negro:753.0:true:916
+0:2634:87254HCW:Hyundai:Serie 3:Gris:53.0:true:1:false
+2:18159:79841IVT:Volkswagen:Serie 3:Rojo:386.0:true:2365:326
+1:48179:68368ESS:Audi:Leon:Azul:15.0:false:63
+0:3112:74973DPM:Hyundai:Corsa:Rojo:35.0:true:1:true
+2:37400:80496MQO:Mercedes:Corsa:Blanco:593.0:false:1989:2436
+1:21996:91481LYL:Mercedes:Megane:Negro:623.0:false:868
+0:3011:52162HOK:Mercedes:Astra:Amarillo:970.0:true:1:true
+2:10240:67476UNH:Audi:Clio:Blanco:496.0:false:874:138
+1:21397:74501QNQ:Volkswagen:Corsa:Gris:536.0:false:458
+0:345:34399IBJ:Audi:Clio:Rojo:627.0:false:5:false
+2:39601:00424OAO:Toyota:Corsa:Blanco:8.0:true:4695:105
+1:3607:78049WXJ:Audi:Clio:Azul:645.0:true:675
+0:16474:54979GQQ:BMW:Corsa:Amarillo:783.0:true:3:true
+2:44515:08470ECB:Audi:Clio:Gris:686.0:false:1162:2037
+1:37080:73929XEO:Toyota:Leon:Amarillo:314.0:true:590
+0:45267:38154MQC:Volkswagen:Leon:Blanco:699.0:false:3:false
+2:30478:53875XAG:Mercedes:Megane:Rojo:77.0:false:4632:2896
+1:11077:45141SYJ:Hyundai:Corsa:Amarillo:354.0:false:855
+0:20224:59894FIH:Volkswagen:Astra:Blanco:903.0:true:2:false
+2:24291:70568HHE:Toyota:Megane:Amarillo:360.0:false:2355:2026
+1:32714:10861AWG:Mercedes:Serie 3:Amarillo:164.0:true:652
+0:6629:08225GNB:Audi:Clio:Azul:552.0:true:5:false
+2:26634:47355MJL:Honda:Corsa:Gris:575.0:false:2469:2945
+1:48307:52323MGO:Mercedes:Megane:Amarillo:219.0:true:295
+0:40776:33636AKS:Hyundai:Corsa:Gris:840.0:true:5:true
+2:8444:98203ROM:BMW:Corsa:Rojo:813.0:false:2660:556
+1:37734:81632LQX:Mercedes:Astra:Rojo:832.0:true:124
+0:14671:50492WAU:BMW:Megane:Rojo:197.0:true:5:true
+2:42181:63659CAN:Mercedes:Clio:Azul:989.0:false:1674:153
+1:31774:08949CGY:Mercedes:Megane:Gris:928.0:false:175
+0:30913:27567VGF:Mercedes:Astra:Gris:712.0:false:2:true
+2:7835:11237MCO:Honda:Astra:Azul:678.0:false:814:1172
+1:30297:80435SZP:Honda:Corsa:Gris:921.0:false:831
+0:1013:64825KCU:Volkswagen:Astra:Amarillo:178.0:true:3:true
+2:9020:30342XUE:Volkswagen:Serie 3:Azul:170.0:true:1413:1189
+1:19846:78149QLB:Honda:Serie 3:Gris:45.0:false:639
+0:45057:62985THT:Volkswagen:Megane:Amarillo:424.0:false:4:true
+2:40286:95665ZKI:Honda:Corsa:Blanco:634.0:true:4940:1980
+1:34648:78691CCM:Mercedes:Serie 3:Negro:80.0:false:851
+0:36642:84919CKM:BMW:Serie 3:Gris:989.0:true:5:false
+2:894:67189CMT:BMW:Megane:Negro:704.0:true:491:1719
+1:16784:63490FUH:Volkswagen:Serie 3:Azul:488.0:false:547
+0:24338:32411AZB:BMW:Astra:Negro:395.0:true:1:false
+2:30897:88834IVZ:Volkswagen:Megane:Azul:407.0:true:3542:2972
+1:49643:63683MKB:Honda:Clio:Amarillo:999.0:true:62
+0:45668:71022FZF:BMW:Megane:Rojo:63.0:false:2:true
+2:14032:04359BOD:Audi:Clio:Amarillo:716.0:false:3554:83
+1:46354:66000QAQ:Volkswagen:Corsa:Blanco:709.0:false:390
+0:7006:44404CQW:Toyota:Clio:Azul:847.0:false:1:true
+2:14246:74236CPS:Toyota:Astra:Rojo:53.0:true:3051:1839
+1:34949:22726MPR:Audi:Corsa:Blanco:541.0:false:685
+0:25082:20029ZUV:Toyota:Clio:Negro:78.0:false:4:false
+2:41521:73114GBZ:BMW:Leon:Rojo:17.0:true:661:440
+1:36428:84524HXQ:BMW:Clio:Blanco:163.0:true:62
+0:46950:22114DIW:Toyota:Serie 3:Rojo:350.0:true:4:false
+2:22949:72197PWG:Audi:Clio:Rojo:990.0:false:1853:2051
+1:19759:45480VGB:Toyota:Megane:Azul:867.0:false:925
+0:22789:82587GLI:Hyundai:Astra:Azul:470.0:false:3:true
+2:46763:11391RPY:BMW:Megane:Rojo:847.0:false:1903:1444
+1:34445:91453HAU:Toyota:Leon:Rojo:25.0:false:602
+0:4965:27009SWJ:Toyota:Serie 3:Rojo:583.0:false:1:true
+2:5682:24460DDW:Hyundai:Corsa:Blanco:448.0:false:1850:2684
+1:23041:72189JEW:Toyota:Serie 3:Blanco:602.0:true:680
+0:19879:23974EER:Audi:Serie 3:Negro:55.0:true:5:true
+2:16798:21467ZYH:Audi:Megane:Gris:868.0:false:3751:1447
+1:41164:83288TMM:Volkswagen:Serie 3:Azul:436.0:false:791
+0:10662:72211FYA:Mercedes:Corsa:Amarillo:639.0:true:4:true
+2:42653:84698FTS:Mercedes:Megane:Negro:297.0:false:3649:2928
+1:13022:45795KMP:Hyundai:Astra:Azul:18.0:false:434
+0:25:53465ZFB:Volkswagen:Astra:Blanco:845.0:true:5:false
+2:5380:20223FFX:Audi:Serie 3:Rojo:154.0:true:4578:1020
+1:28832:29205NFH:Honda:Astra:Negro:649.0:true:175
+0:4907:09545AYN:Audi:Megane:Azul:431.0:true:4:true
+2:13232:20506WXB:Toyota:Corsa:Negro:95.0:true:4336:531
+1:16002:88700TLI:Honda:Serie 3:Rojo:88.0:false:877
+0:31312:84289EXY:Toyota:Corsa:Blanco:432.0:false:3:true
+2:40752:03864UEO:Audi:Megane:Amarillo:174.0:true:3282:2341
+1:15693:72079QML:Honda:Astra:Amarillo:707.0:false:801
+0:34698:41420EBK:Toyota:Leon:Rojo:422.0:false:1:false
+2:17478:35757XDY:Honda:Corsa:Negro:456.0:false:4282:1001
+1:3798:68310ABJ:BMW:Megane:Azul:399.0:false:141
+0:38615:11527JDN:Audi:Astra:Azul:70.0:false:2:false
+2:15476:53736VTE:Toyota:Leon:Rojo:116.0:false:4942:2988
+1:4299:85882OBZ:Hyundai:Corsa:Azul:248.0:true:30
