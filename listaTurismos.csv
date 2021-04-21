@@ -1,0 +1,31 @@
+TipoVehiculo:Bastidor:Matricula:Marca:Modelo:Color:Tarifa:Disponible:Puertas:MarchaAutomatica
+Turismo:345:34399IBJ:Audi:Clio:Rojo:627.0:false:5:false
+Turismo:6629:08225GNB:Audi:Clio:Azul:552.0:true:5:false
+Turismo:19879:23974EER:Audi:Serie 3:Negro:55.0:true:5:true
+Turismo:4907:09545AYN:Audi:Megane:Azul:431.0:true:4:true
+Turismo:38615:11527JDN:Audi:Astra:Azul:70.0:false:2:false
+Turismo:16474:54979GQQ:BMW:Corsa:Amarillo:783.0:true:3:true
+Turismo:14671:50492WAU:BMW:Megane:Rojo:197.0:true:5:true
+Turismo:36642:84919CKM:BMW:Serie 3:Gris:989.0:true:5:false
+Turismo:24338:32411AZB:BMW:Astra:Negro:395.0:true:1:false
+Turismo:45668:71022FZF:BMW:Megane:Rojo:63.0:false:2:true
+Turismo:38313:24005HTP:Honda:Corsa:Blanco:633.0:false:2:true
+Turismo:2634:87254HCW:Hyundai:Serie 3:Gris:53.0:true:1:false
+Turismo:3112:74973DPM:Hyundai:Corsa:Rojo:35.0:true:1:true
+Turismo:40776:33636AKS:Hyundai:Corsa:Gris:840.0:true:5:true
+Turismo:22789:82587GLI:Hyundai:Astra:Azul:470.0:false:3:true
+Turismo:3011:52162HOK:Mercedes:Astra:Amarillo:970.0:true:1:true
+Turismo:30913:27567VGF:Mercedes:Astra:Gris:712.0:false:2:true
+Turismo:10662:72211FYA:Mercedes:Corsa:Amarillo:639.0:true:4:true
+Turismo:11615:59928TRU:Toyota:Astra:Negro:50.0:true:5:false
+Turismo:7006:44404CQW:Toyota:Clio:Azul:847.0:false:1:true
+Turismo:25082:20029ZUV:Toyota:Clio:Negro:78.0:false:4:false
+Turismo:46950:22114DIW:Toyota:Serie 3:Rojo:350.0:true:4:false
+Turismo:4965:27009SWJ:Toyota:Serie 3:Rojo:583.0:false:1:true
+Turismo:31312:84289EXY:Toyota:Corsa:Blanco:432.0:false:3:true
+Turismo:34698:41420EBK:Toyota:Leon:Rojo:422.0:false:1:false
+Turismo:45267:38154MQC:Volkswagen:Leon:Blanco:699.0:false:3:false
+Turismo:20224:59894FIH:Volkswagen:Astra:Blanco:903.0:true:2:false
+Turismo:1013:64825KCU:Volkswagen:Astra:Amarillo:178.0:true:3:true
+Turismo:45057:62985THT:Volkswagen:Megane:Amarillo:424.0:false:4:true
+Turismo:25:53465ZFB:Volkswagen:Astra:Blanco:845.0:true:5:false

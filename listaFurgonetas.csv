@@ -1,0 +1,31 @@
+TipoVehiculo:Bastidor:Matricula:Marca:Modelo:Color:Tarifa:Disponible:Carga:Volumen
+Furgoneta:10240:67476UNH:Audi:Clio:Blanco:496.0:false:874:138
+Furgoneta:44515:08470ECB:Audi:Clio:Gris:686.0:false:1162:2037
+Furgoneta:14032:04359BOD:Audi:Clio:Amarillo:716.0:false:3554:83
+Furgoneta:22949:72197PWG:Audi:Clio:Rojo:990.0:false:1853:2051
+Furgoneta:16798:21467ZYH:Audi:Megane:Gris:868.0:false:3751:1447
+Furgoneta:5380:20223FFX:Audi:Serie 3:Rojo:154.0:true:4578:1020
+Furgoneta:40752:03864UEO:Audi:Megane:Amarillo:174.0:true:3282:2341
+Furgoneta:8444:98203ROM:BMW:Corsa:Rojo:813.0:false:2660:556
+Furgoneta:894:67189CMT:BMW:Megane:Negro:704.0:true:491:1719
+Furgoneta:41521:73114GBZ:BMW:Leon:Rojo:17.0:true:661:440
+Furgoneta:46763:11391RPY:BMW:Megane:Rojo:847.0:false:1903:1444
+Furgoneta:7997:85753PZI:Honda:Megane:Negro:40.0:true:3368:574
+Furgoneta:26634:47355MJL:Honda:Corsa:Gris:575.0:false:2469:2945
+Furgoneta:7835:11237MCO:Honda:Astra:Azul:678.0:false:814:1172
+Furgoneta:40286:95665ZKI:Honda:Corsa:Blanco:634.0:true:4940:1980
+Furgoneta:17478:35757XDY:Honda:Corsa:Negro:456.0:false:4282:1001
+Furgoneta:5682:24460DDW:Hyundai:Corsa:Blanco:448.0:false:1850:2684
+Furgoneta:37400:80496MQO:Mercedes:Corsa:Blanco:593.0:false:1989:2436
+Furgoneta:30478:53875XAG:Mercedes:Megane:Rojo:77.0:false:4632:2896
+Furgoneta:42181:63659CAN:Mercedes:Clio:Azul:989.0:false:1674:153
+Furgoneta:42653:84698FTS:Mercedes:Megane:Negro:297.0:false:3649:2928
+Furgoneta:32197:18186GEU:Toyota:Serie 3:Amarillo:101.0:true:1951:1053
+Furgoneta:39601:00424OAO:Toyota:Corsa:Blanco:8.0:true:4695:105
+Furgoneta:24291:70568HHE:Toyota:Megane:Amarillo:360.0:false:2355:2026
+Furgoneta:14246:74236CPS:Toyota:Astra:Rojo:53.0:true:3051:1839
+Furgoneta:13232:20506WXB:Toyota:Corsa:Negro:95.0:true:4336:531
+Furgoneta:15476:53736VTE:Toyota:Leon:Rojo:116.0:false:4942:2988
+Furgoneta:18159:79841IVT:Volkswagen:Serie 3:Rojo:386.0:true:2365:326
+Furgoneta:9020:30342XUE:Volkswagen:Serie 3:Azul:170.0:true:1413:1189
+Furgoneta:30897:88834IVZ:Volkswagen:Megane:Azul:407.0:true:3542:2972
